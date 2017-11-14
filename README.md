@@ -43,9 +43,8 @@ Activate the virtual environment:
 
 Install all dependencies into the virtual environment:
 
-```bash
-pip install -r ../requirements.txt
-```
+- Unix/Linux/OSX: `pip install -r ../requirements.txt`
+- Windows: `pip install -r ..\requirements.txt`
 
 #### Run migrate and load fixtures
 
